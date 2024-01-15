@@ -1,5 +1,5 @@
 - Hi, I'm Nycolle Cristine👋
 - 
 - 👀 Today, I'm a high school student
-- 🌱 I’m currently learning Java Script and Python
+- 🌱 I’m currently learning Java Script, Python, HTML,and CSS
 - 😄 Pronouns: she/her
